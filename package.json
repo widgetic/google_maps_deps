@@ -4,5 +4,5 @@
   "description": "Google Maps",
   "version": "0.0.1",
   "main": "infobox.js",
-  "private": true,
+  "private": true
 }
