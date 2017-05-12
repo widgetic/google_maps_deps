@@ -1,0 +1,8 @@
+{
+  "name": "google_maps_deps",
+  "title": "Google Maps",
+  "description": "Google Maps",
+  "version": "0.0.1",
+  "main": "infobox.js",
+  "private": true,
+}
